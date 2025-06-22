@@ -63,7 +63,7 @@
     "cross-env": "^7.0.3",
     "eslint": "^8.41.0",
     "eslint-config-next": "13.3.0",
-    "eslint-config-prettier": "^8.8.0",
+    "eslint-config-prettier": "^10.1.5",
     "eslint-config-turbo": "^1.9.9",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-tailwindcss": "3.13.1",
